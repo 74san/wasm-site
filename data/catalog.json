@@ -1,0 +1,15 @@
+{
+  "whatsapp": "9647870766844",
+  "instagram": "w4sm.iq",
+  "currency": "IQD",
+  "shipping": {"baghdad": 4000, "other": 7000},
+  "discountPercent": 0,
+  "sizes": ["S", "M", "L", "XL", "XXL"],
+  "governorates": ["بغداد", "البصرة", "نينوى", "أربيل", "النجف", "كربلاء", "بابل", "الأنبار", "ديالى", "ذي قار", "كركوك", "صلاح الدين", "واسط", "ميسان", "المثنى", "القادسية", "دهوك", "السليمانية"],
+  "products": [
+    {"id": "cotton", "price": 22000, "colors": ["black", "white"], "image": "assets/products/tee-black.svg", "images": {"black": "assets/products/tee-black.svg", "white": "assets/products/tee-white.svg"}, "name": {"ar": "تيشيرت قطني", "en": "Cotton tee"}, "blurb": {"ar": "قطن تركي صيفي.", "en": "Turkish cotton."}},
+    {"id": "gym", "price": 25000, "colors": ["black"], "image": "assets/products/tee-gym.svg", "images": {"black": "assets/products/tee-gym.svg"}, "name": {"ar": "تيشيرت جيم", "en": "Gym tee"}, "blurb": {"ar": "سريع الجفاف.", "en": "Quick dry."}},
+    {"id": "hoodie", "price": 35000, "colors": ["black"], "image": "assets/products/hoodie.svg", "images": {"black": "assets/products/hoodie.svg"}, "name": {"ar": "هودي", "en": "Hoodie"}, "blurb": {"ar": "وزن ثقيل.", "en": "Heavyweight."}},
+    {"id": "cap", "price": 15000, "colors": ["black"], "image": "assets/products/cap.svg", "images": {"black": "assets/products/cap.svg"}, "name": {"ar": "قبعة", "en": "Cap"}, "blurb": {"ar": "طباعة أمامية.", "en": "Front print."}}
+  ]
+}
